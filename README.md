@@ -35,6 +35,13 @@
   <img align="center" src= "" />
 </div>
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{t1zzo}/count.svg" /></p> 
+<br>
+</div>
+
+
 -----
 Credits: [T1zzo](https://github.com/t1zzo)
 
