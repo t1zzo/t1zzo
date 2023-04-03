@@ -32,7 +32,7 @@
 </div>
 
 <div align = "center">
-  <img align="center" src= "https://github.com/VinayakBector2002/VinayakBector2002/blob/master/Contribution3D.jpg" />
+  <img align="center" src= "" />
 </div>
 
 -----
