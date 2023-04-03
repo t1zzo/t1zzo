@@ -15,7 +15,7 @@
 - 🤔 I’m looking for help with <a href = "https://ckdev.alwaysdata.net"> MY WEBSITE! </a>
 - 💬 Ask me about Python and C#! 🐍
 - 📫 How to reach me: mufctizzo#6532
-- ⚡ Fun fact: I have invaded NeymarJR twitter's account.
+- ⚡ Fun fact: I started in 2021.
 <!--Got the trophies from https://github.com/ryo-ma/github-profile-trophy#margin-width -->
 <div align = "center">
   <img align="center" src= "https://github-profile-trophy.vercel.app/?username=t1zzo&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" />
