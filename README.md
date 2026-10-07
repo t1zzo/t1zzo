@@ -28,6 +28,15 @@ I also work on reverse engineering and game cheat development, exploring how sof
 - **Reverse engineering** — understanding software through hands-on analysis
 - **Game tooling** — cheat development and experiments with game internals
 
+## Teams & Projects
+
+| Group | Years |
+| --- | :---: |
+| **DM Labs** | 2020–2021 |
+| **Meta107** | 2021–2022 |
+| **Cyberterium** | 2022–2023 |
+| **T1zzo** | 2026–Present |
+
 ## Tools I use
 
 <p>
@@ -35,8 +44,6 @@ I also work on reverse engineering and game cheat development, exploring how sof
   <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=next.js" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=node.js" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Stripe-111827?style=flat-square&logo=stripe" alt="Stripe" />
   <img src="https://img.shields.io/badge/Discord-111827?style=flat-square&logo=discord" alt="Discord" />
 </p>
 
